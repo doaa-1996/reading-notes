@@ -6,7 +6,6 @@ My name is Doa'a Obeidat . I'm 24 years old and i'm a communications engineer .
 | -------------- | ----------------------------------------------------------------- |
 | Main           | [Main](https://doaa-1996.github.io/reading-notes/)                |
 | Growth Mindset | [Growth Mindset](https://doaa-1996.github.io/reading-notes/read1) |
-
 | Mark Down| [Mark down](https://doaa-1996.github.io/reading-notes/markdown) |
 
 
