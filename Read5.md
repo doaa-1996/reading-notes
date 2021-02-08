@@ -12,11 +12,12 @@
 
 * !==	not equal value or not equal type.
 
-* >	greater than.
+* 	greater than.
+
 
 * <	less than.
 
-* >=	greater than or equal to.
+* >= greater than or equal to.
 
 * <=	less than or equal to.
 
@@ -36,7 +37,7 @@
 The logical OR ( || ) operator (logical disjunction) for a set of operands is true if and only if one or more of its operands is true.
 
 
- !	not
+ ## !	not
  eturns TRUE or 1 when the operand is FALSE or 0, and returns FALSE or 0 when the operand is TRUE or 1.
 
 
