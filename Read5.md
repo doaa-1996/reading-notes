@@ -28,12 +28,12 @@
 
 
 
- ## &&	and
+ ## && and
  
  The logical AND operator (&&) returns true if both operands are true and returns false otherwise.
 
 
-##  ||	or
+## ||	or
 The logical OR ( || ) operator (logical disjunction) for a set of operands is true if and only if one or more of its operands is true.
 
 
