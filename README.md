@@ -4,7 +4,7 @@
 
   *This is my notebook , I will write all my reading notes here.*
 
-## ***Code 102 Reading notes***
+ ***Code 102 Reading notes***
 
 | Reads          | Links                                                             |
 | -------------- | ----------------------------------------------------------------- |
@@ -18,10 +18,7 @@
 | color | [color](https://doaa-1996.github.io/reading-notes/color) |
 
 
-
-
-
-## ***Code 201 Reading notes***
+ ***Code 201 Reading notes***
 Reads         | Links
 ------------- | -------------
               |[]()
