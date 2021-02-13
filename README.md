@@ -2,6 +2,10 @@
 
 My name is Doa'a Obeidat . I'm 24 years old and i'm a communications engineer .
 
+ This is my notebook , I will write all my reading notes here.
+
+ ##  ***Code 102 Reading notes***
+
 | Reads          | Links                                                             |
 | -------------- | ----------------------------------------------------------------- |
 | Main           | [Main](https://doaa-1996.github.io/reading-notes/)                |
@@ -15,3 +19,23 @@ My name is Doa'a Obeidat . I'm 24 years old and i'm a communications engineer .
 
 
 
+
+
+## ***Code 201 Reading notes***
+Reads         | Links
+------------- | -------------
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
+              |[]()
