@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-My name is Doa'a Obeidat . I'm 24 years old and i'm a communications engineer .
+*My name is Doa'a Obeidat . I'm 24 years old and i'm a communications engineer .*
 
- This is my notebook , I will write all my reading notes here.
+  *This is my notebook , I will write all my reading notes here.*
 
 ## ***Code 102 Reading notes***
 
