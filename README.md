@@ -21,8 +21,8 @@
  ***Code 201 Reading notes***
 Reads         | Links
 ------------- | -------------
-reading 1              |[class01](https://doaa-1996.github.io/reading-notes/class01)
-reading 2             |[class02](https://doaa-1996.github.io/reading-notes/class02)
+reading 1     |[class01](https://doaa-1996.github.io/reading-notes/class01)
+reading 2     |[class02](https://doaa-1996.github.io/reading-notes/class02)
               |[]()
               |[]()
               |[]()
