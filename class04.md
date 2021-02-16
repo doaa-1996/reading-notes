@@ -408,7 +408,7 @@ functions are called by specifying the name of the function, followed by the par
 
 functionName();
 
-**pair programming**
+# pair programming
 
 Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce. What if you can could get all of this, instantaneously, while typing code line by line and character by character? You can, with pair programming, a technique common to many agile work environments.
 
