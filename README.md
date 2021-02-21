@@ -33,5 +33,6 @@
 |  reading 3     | [class03](https://doaa-1996.github.io/reading-notes/class03)      |
 |  reading 4     | [class04](https://doaa-1996.github.io/reading-notes/class04)      |
 |  reading 5     | [class05](https://doaa-1996.github.io/reading-notes/class05)      |
+|  reading 6     | [class06](https://doaa-1996.github.io/reading-notes/class06)      |
 
 
