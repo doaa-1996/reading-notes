@@ -212,13 +212,12 @@ is usually a hex code.
 a function allows you to define a block of code, give it a name and then execute it as many times as you want. 
 
 ## declaring a function
+
 You can declare a function by providing its return value, name, and the types for its arguments. 
 
-*function functionName (argument1,argument2,....)*
+`*function functionName (argument1,argument2,....)*`
 
-*{
-    statements;
-}*
+`*{statements;}*`
 
 ## Invoking afunction
 
@@ -244,6 +243,7 @@ You will typically describe fullName() as a method of the person object, and ful
 The fullName property will execute (as a function) when it is invoked with ().
 
 ## Object
+
 An object is a collection of properties, and a property is an association between a name (or key) and a value. 
 
 
