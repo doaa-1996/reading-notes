@@ -40,8 +40,7 @@ known as the containing or parent element.
 
 
 **Controlling the
-Position of Elements
-**
+Position of Elements**
 
 
 CSS has the following positioning schemes that allow you to control
