@@ -24,18 +24,18 @@ to your site.
 
 **ADDING TEXT:**
 
-Text input (single-line)
+**Text input (single-line)**
 
 Used for a single line of text such
 as email addresses and names.
 
 
-Password input
+**Password input**
 
 Like a single line text box but it
 masks the characters entered.
 
-Text area (multi-line)
+**Text area (multi-line)**
 
 For longer areas of text, such as
 messages and comments.
@@ -43,19 +43,19 @@ messages and comments.
 
 **Making Choices:**
 
-Radio buttons
+**Radio buttons**
 
 For use when a user must select
 one of a number of options.
 
 
-Checkboxes
+**Checkboxes**
 
 When a user can select and
 unselect one or more options.
 
 
-Drop-down boxes
+**Drop-down boxes**
 
 When a user must pick one of a
 number of options from a list.
@@ -63,14 +63,14 @@ number of options from a list.
 
 **Submitting Forms:**
 
-Submit buttons
+**Submit buttons**
 
 To submit data from your form
 to another web page.
 
 
 
-Image buttons
+**Image buttons**
 
 Similar to submit buttons but
 they allow you to use an image.
@@ -78,7 +78,7 @@ they allow you to use an image.
 
 **Uploading Files:**
 
-File upload
+**File upload**
 
 Allows users to upload files
 (e.g. images) to a website.
@@ -162,7 +162,7 @@ attribute and will usually have a
 method and id attribute too.
 
 
-action
+**action**
 
 Every `<form>` element requires
 an action attribute. Its value
@@ -171,7 +171,7 @@ server that will receive the
 information in the form when it
 is submitted.
 
-method
+**method**
 
 Forms can be sent using one of
 two methods: get or post.
@@ -214,7 +214,7 @@ If the method attribute is not
 used, the form data will be sent
 using the get method.
 
-id
+**id**
 
 We look at the id attribute on
 page 183, but the value is used to
@@ -240,7 +240,7 @@ type="text"
 When the type attribute has a
 value of text, it creates a singleline text input.
 
-name
+**name**
 
 When users enter information
 into a form, the server needs to
@@ -258,7 +258,7 @@ sent along with the information
 they enter to the server.
 
 
-size
+**size**
 
 The size attribute should not
 be used on new forms. It was
@@ -267,7 +267,7 @@ the width of the text input
 (measured by the number of
 characters that would be seen).
 
-maxlength
+**maxlength**
 
 You can use the maxlength
 attribute to limit the number
@@ -279,7 +279,7 @@ asking for a year, the maxlength
 attribute could have a value of 4.
 
 
-Password Input
+**Password Input**
 
 `<input>`
 
@@ -297,7 +297,7 @@ passwords.
 
 
 
-name
+**name**
 
 The name attribute indicates
 the name of the password input,
@@ -305,7 +305,7 @@ which is sent to the server with
 the password the user enters.
 
 
-size, maxlength
+**size, maxlength**
 
 It can also carry the size and
 maxlength attributes like the
@@ -345,7 +345,7 @@ type="radio"
 Radio buttons allow users to pick
 just one of a number of options.
 
-name
+**name**
 
 The name attribute is sent to
 the server with the value of the
@@ -358,7 +358,7 @@ same for all of the radio buttons
 used to answer that question.
 
 
-value
+**value**
 
 The value attribute indicates
 the value that is sent to the
@@ -369,7 +369,7 @@ in a group should be different
 option the user has selected).
 
 
-checked
+**checked**
 
 The checked attribute can be
 used to indicate which value (if
@@ -389,7 +389,7 @@ Checkboxes allow users to select
 (and unselect) one or more
 options in answer to a question.
 
-name
+**name**
 
 The name attribute is sent to
 the server with the value of the
@@ -401,13 +401,13 @@ name attribute should be the
 same for all of the buttons that
 answer that question.
 
-value
+**value**
 
 The value attribute indicates
 the value sent to the server if this
 checkbox is checked.
 
-checked
+**checked**
 
 The checked attribute indicates
 that this box should be checked
@@ -427,7 +427,7 @@ contains two or more `<option>`
 elements. 
 
 
-name
+**name**
 
 The name attribute indicates the
 name of the form control being
@@ -445,7 +445,7 @@ be shown to the user in the drop
 down box.
 
 
-value
+**value**
 
 The `<option>` element uses the
 value attribute to indicate the
@@ -453,7 +453,7 @@ value that is sent to the server
 along with the name of the
 control if this option is selected.
 
-selected
+**selected**
 
 The selected attribute can be
 used to indicate the option that
@@ -507,7 +507,7 @@ should be tested throroughly if
 used (in particular in Firefox and
 Safari on a Mac). 
 
-multiple
+**multiple**
 
 You can allow users to select
 multiple options from this list by
@@ -576,8 +576,7 @@ like they do when used with the
 `<img>` element.
 
 
-**Button & hidden
-Controls**
+**Button & hidden Controls**
 
 `<button>`
 The `<button>` element was
@@ -612,8 +611,7 @@ on when they submitted a form.
 
 
 
-**Labelling Form
-Controls**
+**Labelling Form Controls**
 
 `<label>`
 When introducing form controls,
@@ -640,7 +638,7 @@ control it is a label for (as shown
 with the radio buttons).
 
 
-for
+**for**
 
 The for attribute states which
 form control the label belongs to.
@@ -873,7 +871,7 @@ enter information. Safari also
 automatically rounds the corners
 on the search input field.
 
-placeholder
+**placeholder**
 
 On any text input, you can
 also use an attribute called
@@ -902,7 +900,7 @@ It can be used on rules that
 apply to the `<ol>`,`<ul>`, and `<li>`
 elements.
 
-Unordered Lists
+**Unordered Lists**
 
 For an unordered list you can use
 the following values:
@@ -916,7 +914,7 @@ the following values:
 * square
 
 
- Ordered Lists
+**Ordered Lists**
 
 For an ordered (numbered) list
 you can use the following values:
@@ -971,14 +969,14 @@ main points.
 This property can take one of
 two values:
 
-outside
+**outside**
 
 The marker sits to the left of the
 block of text. (This is the default
 behaviour if this property is not
 used.)
 
-inside
+**inside**
 
 The marker sits inside the box of
 text (which is indented).
@@ -1003,35 +1001,35 @@ used with tables. Here we will
 put them together in a single
 example using the following:
 
-width 
+**width**
 to set the width of the table.
 
-padding
+**padding**
  to set the space
 between the border of each table
 cell and its content.
 
-text-transform to convert the
+**text-transform** to convert the
 content of the table headers to
 uppercase.
 
-letter-spacing, font-size
+**letter-spacing**, font-size
 to add additional styling to the
 content of the table headers.
 
-border-top, border-bottom
+**border-top**, **border-bottom**
 to set borders above and below
 the table headers.
 
-text-align to align the writing
+**text-align** to align the writing
 to the left of some table cells and
 to the right of the others.
 
-background-color to change
+**background-color** to change
 the background color of the
 alternating table rows.
 
-:hover to highlight a table row
+**:hover** to highlight a table row
 when a user's mouse goes over it.
 
 
@@ -1039,7 +1037,7 @@ Here are some tips for styling
 tables to ensure they are clean
 and easy to follow:
 
-Give cells padding
+**Give cells padding**
 
 If the text in a table cell either
 touches a border (or another
@@ -1047,7 +1045,7 @@ cell), it becomes much harder to
 read. Adding padding helps to
 improve readability.
 
-Distinguish headings
+**Distinguish headings**
 
 Putting all table headings in
 bold (the default style for the
@@ -1058,7 +1056,7 @@ then either add a background
 color or an underline to clearly
 distinguish them from content.
 
-Shade alternate rows
+**Shade alternate rows**
 
 Shading every other row can
 help users follow along the lines.
@@ -1066,7 +1064,7 @@ Use a subtle distinction from the
 normal color of the rows to keep
 the table looking clean.
 
-Align numerals
+**Align numerals**
 
 You can use the text-align
 property to align the content
@@ -1075,7 +1073,7 @@ numbers to the right, so that
 large numbers are clearly
 distinguished from smaller ones.
 
-Online extra
+**Online extra**
 
 There are more examples of
 using CSS to style tables in the
@@ -1144,7 +1142,7 @@ border-collapse property.
 
 Possible values are:
 
-collapse
+**collapse**
 
 Borders are collapsed into a
 single border where possible.
@@ -1153,7 +1151,7 @@ ignored and cells pushed
 together, and empty-cells
 properties will be ignored.)
 
-separate
+**separate**
 
 Borders are detached from each
 other. (border-spacing and
@@ -1272,8 +1270,7 @@ top of the button.
 
 
 
-**Styling Fieldsets
-& Legends**
+**Styling Fieldsets & Legends**
 
 Fieldsets are particularly helpful
 in determining the edges of a
@@ -1324,8 +1321,7 @@ often different lengths, which
 means that the form controls will
 not appear in a straight line.
 
-**Aligning Form
-Controls: Solution**
+**Aligning Form  Controls: Solution**
 
 Each row of the form has a title
 telling users what they need to
@@ -1381,8 +1377,7 @@ used values for this property:
 
 
 
-**Web Developer
-Toolbar**
+**Web Developer Toolbar**
 
 
 This helpful extension for Firefox and Chrome
@@ -1460,7 +1455,10 @@ Action that should be performed when a user clicks a button
 Content that should be verified when a user inputs data
 And more ...
 
+ 
 
+
+ 
 Many different methods can be used to let JavaScript work with events:
 
 HTML event attributes can execute JavaScript code directly
