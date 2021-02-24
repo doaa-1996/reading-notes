@@ -37,6 +37,7 @@
 |  reading 7     | [class07](https://doaa-1996.github.io/reading-notes/class07)      |
 |  reading 8     | [class08](https://doaa-1996.github.io/reading-notes/class08)      |
 |  reading 9     | [class09](https://doaa-1996.github.io/reading-notes/class09)      |
+|  reading 10    | [class10](https://doaa-1996.github.io/reading-notes/class10)      |
 
 
 
