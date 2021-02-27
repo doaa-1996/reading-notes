@@ -66,18 +66,18 @@ repeated both horizontally and
 vertically (the default way it
 is shown if the backgroundrepeat property isn't used).
 
-repeat-x
+**repeat-x**
 
 The image is repeated
 horizontally only (as shown in
 the first example on the left).
 
-repeat-y
+**repeat-y**
 
 The image is repeated vertically
 only.
 
-no-repeat
+**no-repeat**
 
 The image is only shown once.
 The background-attachment
@@ -87,12 +87,12 @@ one position or move as the user
 scrolls up and down the page. It
 can have one of two values:
 
-fixed
+**fixed**
 
 The background image stays in
 the same position on the page.
 
-scroll
+**scroll**
 
 The background image moves
 up and down as the user scrolls
@@ -187,7 +187,7 @@ If you want to overlay text on a background image, the image must be low
 contrast in order for the text to be legible.
 
 
-High Contrast
+**High Contrast**
 
 The majority of photographs
 have quite a high contrast, which
@@ -195,7 +195,7 @@ means that they are not ideal for
 use as a background image.
 
 
-Low Contrast
+**Low Contrast**
 
 Image editing applications such
 as Photoshop and GIMP have
@@ -204,7 +204,7 @@ adjust your images to have lower
 contrast.
 
 
-Screen
+**Screen**
 
 To overlay text on an image with
 high contrast, you can place a
@@ -215,21 +215,21 @@ text to improve legibility.
 
 # Practical Information
 
-Search Engine Optimization (SEO)
+**Search Engine Optimization (SEO)**
 
 SEO is a huge topic and several books have been written on the subject.
 The following pages will help you understand the key concepts so you can
 improve your website's visibility on search engines.
 
 
-On-Page SEO
+**On-Page SEO**
 
 In every page of your website there are seven key places where keywords
 (the words people might search on to find your site) can appear in order
 to improve its findability.
 
 
-1: Page Title
+**1: Page Title**
 
 The page title appears at the top
 of the browser window or on the
@@ -238,14 +238,14 @@ the <title> element which lives
 inside the <head> element.
 
 
-2: URL / Web Address
+**2: URL / Web Address**
 
 The name of the file is part of
 the URL. Where possible, use
 keywords in the file name.
 
 
-3: Headings
+**3: Headings**
 
 If the keywords are in a heading
 `<hn>` element then a search
@@ -253,7 +253,7 @@ engine will know that this page is
 all about that subject and give it
 greater weight than other text.
 
-4: Text
+**4: Text**
 
 Where possible, it helps to
 repeat the keywords in the main
@@ -264,7 +264,7 @@ must be easy for a human to
 read.
 
 
-5: Link Text
+**5: Link Text**
 
 Use keywords in the text that
 create links between pages
@@ -272,7 +272,7 @@ create links between pages
 expressions such as "click here").
 
 
-6: Image Alt Text
+**6: Image Alt Text**
 
 Search engines rely on you
 providing accurate descriptions
@@ -282,7 +282,7 @@ up in the results of image-based
 searches.
 
 
-7: Page Descriptions
+**7: Page Descriptions**
 
 The description also lives inside
 the `<head>` element and is
@@ -302,7 +302,7 @@ hardest tasks when you start to think about SEO. Here are six steps that
 will help you identify the right keywords and phrases for your site.
 
 
-1: Brainstorm
+**1: Brainstorm**
 
 List down the words that
 someone might type into
@@ -312,14 +312,14 @@ products or services your site is
 about.
 
 
-2: Organize
+**2: Organize**
 
 Group the keywords into
 separate lists for the different
 sections or categories of your
 website.
 
-3: Research
+**3: Research**
 
 There are several tools that let
 you enter your keywords and
@@ -344,7 +344,7 @@ not seem appropriate).
 
 
 
-4: Compare
+**4: Compare**
 
 It is very unlikely that your
 site will appear at the top of
@@ -359,7 +359,7 @@ rise up the search results when
 people search on that term.
 
 
-5: Refine
+**5: Refine**
 
 Now you need to pick which
 keywords you will focus on.
@@ -370,7 +370,7 @@ section of your site.
 
 
 
-6: Map
+**6: Map**
 
 Now that you have a refined list
 of keywords, you know which
@@ -388,7 +388,7 @@ how they found it, what they were looking at and at what point they are
 leaving. One of the best tools for doing this is a free service offered by
 Google called Google Analytics.
 
-Signing Up
+**Signing Up**
 
 The Google Analytics service
 relies on you signing up for an
@@ -400,7 +400,7 @@ put on every page of your site.
 
 
 
-How it Works
+**How it Works**
 
 Every time someone loads a
 page of your site, the tracking
@@ -412,7 +412,7 @@ to see how visitors use your site.
 
 
 
-The Tracking Code
+**The Tracking Code**
 
 A tracking code is provided
 by Google Analytics for each
@@ -434,7 +434,7 @@ likely to want to know. In particular, it tells you how many people are
 coming to your site.
 
 
-Visits
+**Visits**
 
 This is the number of times
 people have come to your site. If
@@ -444,7 +444,7 @@ another page on your site, it will
 be counted as a new visit.
 
 
-Unique Visits
+**Unique Visits**
 
 This is the total number of
 people who have visited your site
@@ -459,24 +459,24 @@ defined period.
 
 
 
-Page Views
+**Page Views**
 
 The total number of pages all
 visitors have viewed on your site.
 
-Pages per Visit
+**Pages per Visit**
 
 The average number of pages
 each visitor has looked at on
 your site per visit.
 
-Average Time on Site
+**Average Time on Site**
 
 The average amount of time
 each user has spent on the site
 per visit.
 
-Date Selector
+**Date Selector**
 
 Using the date selector in the top
 right hand corner of the site, you
@@ -487,7 +487,7 @@ last month, but you can change
 it to report on a specific time
 period.
 
-Export
+**Export**
 
 The export link just above the
 title that says "visitors overview"
@@ -516,7 +516,7 @@ coming from.
 In order to put your site on the web you will
 need a domain name and web hosting.
 
-DOMAIN NAMES WEB 
+**DOMAIN NAMES WEB** 
 
 Your domain name is your web
 address (e.g. google.com or bbc.
@@ -527,7 +527,8 @@ pay an annual fee to keep that
 domain name.
 
 
-WEB HOSTING 
+**WEB HOSTING**
+
 So that other people can see
 your site, you will need to upload
 it to a web server. Web servers
