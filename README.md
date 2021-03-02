@@ -41,8 +41,5 @@
 |  reading 11    | [class11](https://doaa-1996.github.io/reading-notes/class11)      |
 |  reading 12    | [class12](https://doaa-1996.github.io/reading-notes/class12)      |
 |  reading 13    | [class13](https://doaa-1996.github.io/reading-notes/class13)      |
-
-
-
-
-
+|  reading 14a   | [class14a](https://doaa-1996.github.io/reading-notes/class14a)    |
+|  reading 14b   | [class14b](https://doaa-1996.github.io/reading-notes/class14b)    |
