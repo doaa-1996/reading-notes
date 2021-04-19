@@ -51,7 +51,7 @@
 | Reads          | Links                                                          |
 | -------------- | ---------------------------------------------------------------|
 | reading1       | [reading1](https://doaa-1996.github.io/reading-notes/reading1) |
-|                | []()                                                           |
+| reading2       | [reading2](https://doaa-1996.github.io/reading-notes/reading2) |
 |                | []()                                                           |
 |                | []()                                                           |
 
