@@ -55,6 +55,7 @@
 | reading3       | [reading3](https://doaa-1996.github.io/reading-notes/reading3) |
 | reading4       | [reading4](https://doaa-1996.github.io/reading-notes/reading4) |
 | reading5       | [reading5](https://doaa-1996.github.io/reading-notes/reading5) |
+| reading6       | [reading6](https://doaa-1996.github.io/reading-notes/reading6) |
 
 
 
