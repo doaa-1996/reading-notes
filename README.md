@@ -57,7 +57,7 @@
 | reading5       | [reading5](https://doaa-1996.github.io/reading-notes/reading5) |
 | reading6       | [reading6](https://doaa-1996.github.io/reading-notes/reading6) |
 | reading7       | [reading7](https://doaa-1996.github.io/reading-notes/reading7) |
-
+| reading8       | [reading8](https://doaa-1996.github.io/reading-notes/reading8) |
 
 
 ## Code 401 - Advanced Software Development
