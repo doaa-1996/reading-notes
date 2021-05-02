@@ -61,6 +61,7 @@
 | reading9       | [reading9](https://doaa-1996.github.io/reading-notes/reading9)   |
 | reading10      | [reading10](https://doaa-1996.github.io/reading-notes/reading10) |
 | reading11      | [reading11](https://doaa-1996.github.io/reading-notes/reading11) |
+| reading12      | [reading12](https://doaa-1996.github.io/reading-notes/reading12) |
 
 
 
