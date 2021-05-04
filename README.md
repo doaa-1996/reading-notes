@@ -49,22 +49,21 @@
 ## Code 301 - Intermediate Software Development
 
 | Reads          | Links                                                            |
-| -------------- | -----------------------------------------------------------------|
-| reading1       | [reading1](https://doaa-1996.github.io/reading-notes/reading1)   |
-| reading2       | [reading2](https://doaa-1996.github.io/reading-notes/reading2)   |
-| reading3       | [reading3](https://doaa-1996.github.io/reading-notes/reading3)   |
-| reading4       | [reading4](https://doaa-1996.github.io/reading-notes/reading4)   |
-| reading5       | [reading5](https://doaa-1996.github.io/reading-notes/reading5)   |
-| reading6       | [reading6](https://doaa-1996.github.io/reading-notes/reading6)   |
-| reading7       | [reading7](https://doaa-1996.github.io/reading-notes/reading7)   |
-| reading8       | [reading8](https://doaa-1996.github.io/reading-notes/reading8)   |
-| reading9       | [reading9](https://doaa-1996.github.io/reading-notes/reading9)   |
-| reading10      | [reading10](https://doaa-1996.github.io/reading-notes/reading10) |
-| reading11      | [reading11](https://doaa-1996.github.io/reading-notes/reading11) |
-| reading12      | [reading12](https://doaa-1996.github.io/reading-notes/reading12) |
-| reading13      | [reading13](https://doaa-1996.github.io/reading-notes/reading13) |
-
-
+| -------------- | --------------------------------------------------------------------|
+| reading1       | [reading1](https://doaa-1996.github.io/reading-notes/reading1)      |
+| reading2       | [reading2](https://doaa-1996.github.io/reading-notes/reading2)      |
+| reading3       | [reading3](https://doaa-1996.github.io/reading-notes/reading3)      |
+| reading4       | [reading4](https://doaa-1996.github.io/reading-notes/reading4)      |
+| reading5       | [reading5](https://doaa-1996.github.io/reading-notes/reading5)      |
+| reading6       | [reading6](https://doaa-1996.github.io/reading-notes/reading6)      |
+| reading7       | [reading7](https://doaa-1996.github.io/reading-notes/reading7)      |
+| reading8       | [reading8](https://doaa-1996.github.io/reading-notes/reading8)      |
+| reading9       | [reading9](https://doaa-1996.github.io/reading-notes/reading9)      |
+| reading10      | [reading10](https://doaa-1996.github.io/reading-notes/reading10)    |
+| reading11      | [reading11](https://doaa-1996.github.io/reading-notes/reading11)    |
+| reading12      | [reading12](https://doaa-1996.github.io/reading-notes/reading12)    |
+| reading13      | [reading13](https://doaa-1996.github.io/reading-notes/reading13)    |
+| reading14a      | [reading14a](https://doaa-1996.github.io/reading-notes/reading14a) |
 
 ## Code 401 - Advanced Software Development
 
