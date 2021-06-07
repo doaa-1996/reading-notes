@@ -17,14 +17,7 @@
 | Functions         | [Functions](https://doaa-1996.github.io/reading-notes/functions)     |
 | color             | [color](https://doaa-1996.github.io/reading-notes/color)             |
 
-
-
-
 ## Code 201 - Foundations of Software Development
-
-
-
-
 
 | Reads       | Links                                                          |
 | ----------- | -------------------------------------------------------------- |
@@ -43,8 +36,6 @@
 | reading 13  | [class13](https://doaa-1996.github.io/reading-notes/class13)   |
 | reading 14a | [class14a](https://doaa-1996.github.io/reading-notes/class14a) |
 | reading 14b | [class14b](https://doaa-1996.github.io/reading-notes/class14b) |
-
-
 
 ## Code 301 - Intermediate Software Development
 
@@ -66,20 +57,13 @@
 | reading14 | [reading14](https://doaa-1996.github.io/reading-notes/reading14) |
 | reading15 | [reading15](https://doaa-1996.github.io/reading-notes/reading15) |
 
-
-
-
-
-
-
 ## Code 401 - Advanced Software Development
-
 
 | Reads  | Links                                                                       |
 | ------ | --------------------------------------------------------------------------- |
 | read01 | [Pain and big O notation](https://doaa-1996.github.io/reading-notes/read01) |
 | read02 | [Testing and Modules](https://doaa-1996.github.io/reading-notes/read02)     |
-|        |                                                                             |
+| read03 | [FileIO & Exceptions](https://doaa-1996.github.io/reading-notes/read03)     |
 |        |                                                                             |
 |        |                                                                             |
 |        |                                                                             |
