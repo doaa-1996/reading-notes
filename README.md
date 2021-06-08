@@ -64,7 +64,7 @@
 | read01 | [Pain and big O notation](https://doaa-1996.github.io/reading-notes/read01) |
 | read02 | [Testing and Modules](https://doaa-1996.github.io/reading-notes/read02)     |
 | read03 | [FileIO & Exceptions](https://doaa-1996.github.io/reading-notes/read03)     |
-|        |                                                                             |
+| read04 | [Topic](https://doaa-1996.github.io/reading-notes/read04)                   |
 |        |                                                                             |
 |        |                                                                             |
 |        |                                                                             |
