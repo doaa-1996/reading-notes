@@ -66,7 +66,7 @@
 | read03 | [FileIO & Exceptions](https://doaa-1996.github.io/reading-notes/read03)     |
 | read04 | [Topic](https://doaa-1996.github.io/reading-notes/read04)                   |
 | read05 | [Linked Lists](https://doaa-1996.github.io/reading-notes/read05)            |
-|        |                                                                             |
+| read6  | [Game of Greed 1](https://doaa-1996.github.io/reading-notes/read06)         |
 |        |                                                                             |
 |        |                                                                             |
 |        |                                                                             |
