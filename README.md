@@ -67,7 +67,7 @@
 | read04 | [Topic](https://doaa-1996.github.io/reading-notes/read04)                   |
 | read05 | [Linked Lists](https://doaa-1996.github.io/reading-notes/read05)            |
 | read6  | [Game of Greed 1](https://doaa-1996.github.io/reading-notes/read06)         |
-|        |                                                                             |
+| read7  | [Game of Greed 2](https://doaa-1996.github.io/reading-notes/read07)         |
 |        |                                                                             |
 |        |                                                                             |
 |        |                                                                             |
