@@ -69,7 +69,7 @@
 | read06 | [Game of Greed 1](https://doaa-1996.github.io/reading-notes/read06)         |
 | read07 | [Game of Greed 2](https://doaa-1996.github.io/reading-notes/read07)         |
 | read08 | [Game of Greed 3](https://doaa-1996.github.io/reading-notes/read08)         |
-|        |                                                                             |
+| read09 | [Game of Greed 4](https://doaa-1996.github.io/reading-notes/read09)         |
 |        |                                                                             |
 |        |                                                                             |
 |        |                                                                             |
