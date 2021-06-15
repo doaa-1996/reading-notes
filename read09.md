@@ -158,4 +158,3 @@ The most important qualities to notice about the normal distribution is its symm
 We haven’t discussed probability distributions in-depth here, but know that the normal distribution is a particularly important kind of probability distribution. In statistics, it is the values of our data that are being distributed. Here, the x-axis is the values of our data, and the y-axis is the count of each of these values. Here’s the same picture of the normal distribution, but labelled according to a probability and statistical context:
 
 ![h](https://i.imgur.com/egqrj58.jpg)
-
