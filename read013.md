@@ -1,8 +1,8 @@
 # How to run Linear regression in Python scikit-Learn
 
-## Regression
 
-Regression analysis is one of the most important fields in statistics and machine learning. There are many regression methods available. Linear regression is one of them.
+
+**Regression** analysis is one of the most important fields in statistics and machine learning. There are many regression methods available. Linear regression is one of them.
 
 You know that linear regression is a popular technique and you might as well seen the mathematical equation of linear regression. But do you know how to implement a linear regression in Python?? If so don’t read this post because this post is all about implementing linear regression in Python. There are several ways in which you can do that, you can do linear regression using numpy, scipy, stats model and sckit learn. But in this post I am going to use scikit learn to perform linear regression.
 
