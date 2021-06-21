@@ -73,5 +73,4 @@
 | read1  | [Stacks & Queues](https://doaa-1996.github.io/reading-notes/read010)        |
 | read11 | [Data Analysis](https://doaa-1996.github.io/reading-notes/read011)          |
 | read12 | [Topic](https://doaa-1996.github.io/reading-notes/read012)                  |
-|        |                                                                             |
-|        |                                                                             |
+| read13 | [Linear Regressions](https://doaa-1996.github.io/reading-notes/read013)     |
