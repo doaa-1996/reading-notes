@@ -76,3 +76,4 @@
 | read13 | [Linear Regressions](https://doaa-1996.github.io/reading-notes/read013)     |
 | read14 | [Data Visualization](https://doaa-1996.github.io/reading-notes/read014)     |
 | read15 | [Trees](https://doaa-1996.github.io/reading-notes/read015)                  |
+| read16 | [Machine Learning Intro](https://doaa-1996.github.io/reading-notes/read016) |
