@@ -78,3 +78,4 @@
 | read15 | [Trees](https://doaa-1996.github.io/reading-notes/read015)                  |
 | read16 | [Machine Learning Intro](https://doaa-1996.github.io/reading-notes/read016) |
 | read17 | [Web Scraping](https://doaa-1996.github.io/reading-notes/read017)           |
+| read18 | [Cryptography](https://doaa-1996.github.io/reading-notes/read018)           |
