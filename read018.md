@@ -51,7 +51,7 @@ D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z	A	B	C
 
 They can then decode the message with certainty. The first letter "E" was shifted by 3 from "B", the second letter "H" was shifted by 3 from "E", etc.
 
- The result is this ominous message:
+The result is this ominous message:
 
 
 BEWARE BRUTUS
@@ -66,7 +66,7 @@ Imagine that a very literate and savvy enemy intercepts one of Caesar's messages
 
 RZ VMZ WMDIBDIB VGG AJMXZN OJ EJDI RDOC XGZJKVOMV OJ
 
- YZAZVO OCZ ZIZHT LPZZI VO OCZ IDGZ YZGOV
+YZAZVO OCZ ZIZHT LPZZI VO OCZ IDGZ YZGOV
 
 
 That enemy does not know that Caesar always uses a shift of 3, so he must attempt to "crack" the cipher without knowing the shift.
@@ -84,7 +84,6 @@ Human languages tend to use some letters more than others. For example, "E" is t
 
 
 Another term for the original unencrypted message is plaintext. If the enemy already knew some part of the plaintext, it will be easier for them to crack the rest of the encrypted version.
-
 
 
 **Brute force**
@@ -111,7 +110,6 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 
 The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the Vigenère cipher, and still has modern application in the ROT13 system. As with all single-alphabet substitution ciphers, the Caesar cipher is easily broken and in modern practice offers essentially no communications security.
 
-
 The transformation can be represented by aligning two alphabets; the cipher alphabet is the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a left rotation of three places, equivalent to a right shift of 23 (the shift parameter is used as the key):
 
 Plain	A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
@@ -124,6 +122,5 @@ When encrypting, a person looks up each letter of the message in the "plain" lin
 
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
-
 
 Deciphering is done in reverse, with a right shift of 3.
