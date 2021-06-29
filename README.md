@@ -79,3 +79,4 @@
 | read16 | [Machine Learning Intro](https://doaa-1996.github.io/reading-notes/read016) |
 | read17 | [Web Scraping](https://doaa-1996.github.io/reading-notes/read017)           |
 | read18 | [Cryptography](https://doaa-1996.github.io/reading-notes/read018)           |
+| read19 | [Automation](https://doaa-1996.github.io/reading-notes/read019)             |
