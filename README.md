@@ -81,3 +81,4 @@
 | read18 | [Cryptography](https://doaa-1996.github.io/reading-notes/read018)           |
 | read19 | [Automation](https://doaa-1996.github.io/reading-notes/read019)             |
 | read26 | [Intro to Django](https://doaa-1996.github.io/reading-notes/read26)         |
+| read27 | [Django Models](https://doaa-1996.github.io/reading-notes/read27)           |
