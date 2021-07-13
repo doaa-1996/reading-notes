@@ -83,3 +83,4 @@
 | read26 | [Intro to Django](https://doaa-1996.github.io/reading-notes/read26)         |
 | read27 | [Django Models](https://doaa-1996.github.io/reading-notes/read27)           |
 | read28 | [Django CRUD and Forms](https://doaa-1996.github.io/reading-notes/read28)   |
+| read29 | [Django Custom User](https://doaa-1996.github.io/reading-notes/read29)      |
