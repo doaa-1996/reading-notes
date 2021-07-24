@@ -60,7 +60,6 @@ Add it to the INSTALLED_APPS config in our settings.py file. I like to make a di
 
 
 ```
-# config/settings.py
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -69,10 +68,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    # 3rd party
     'rest_framework', # new
 
-    # Local
     'books',
 ]
 ```
