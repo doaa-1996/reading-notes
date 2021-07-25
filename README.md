@@ -85,3 +85,4 @@
 | read28 | [Django CRUD and Forms](https://doaa-1996.github.io/reading-notes/read28)          |
 | read29 | [Django Custom User](https://doaa-1996.github.io/reading-notes/read29)             |
 | read31 | [Django REST Framework & Docker](https://doaa-1996.github.io/reading-notes/read31) |
+| read32 | [Permissions & Postgresql](https://doaa-1996.github.io/reading-notes/read32)       |
