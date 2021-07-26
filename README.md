@@ -59,30 +59,31 @@
 
 ## Code 401 - Advanced Software Development
 
-| Reads  | Links                                                                              |
-| ------ | ---------------------------------------------------------------------------------- |
-| read01 | [Pain and big O notation](https://doaa-1996.github.io/reading-notes/read01)        |
-| read02 | [Testing and Modules](https://doaa-1996.github.io/reading-notes/read02)            |
-| read03 | [FileIO & Exceptions](https://doaa-1996.github.io/reading-notes/read03)            |
-| read04 | [Topic](https://doaa-1996.github.io/reading-notes/read04)                          |
-| read05 | [Linked Lists](https://doaa-1996.github.io/reading-notes/read05)                   |
-| read06 | [Game of Greed 1](https://doaa-1996.github.io/reading-notes/read06)                |
-| read07 | [Game of Greed 2](https://doaa-1996.github.io/reading-notes/read07)                |
-| read08 | [Game of Greed 3](https://doaa-1996.github.io/reading-notes/read08)                |
-| read09 | [Game of Greed 4](https://doaa-1996.github.io/reading-notes/read09)                |
-| read1  | [Stacks & Queues](https://doaa-1996.github.io/reading-notes/read010)               |
-| read11 | [Data Analysis](https://doaa-1996.github.io/reading-notes/read011)                 |
-| read12 | [Topic](https://doaa-1996.github.io/reading-notes/read012)                         |
-| read13 | [Linear Regressions](https://doaa-1996.github.io/reading-notes/read013)            |
-| read14 | [Data Visualization](https://doaa-1996.github.io/reading-notes/read014)            |
-| read15 | [Trees](https://doaa-1996.github.io/reading-notes/read015)                         |
-| read16 | [Machine Learning Intro](https://doaa-1996.github.io/reading-notes/read016)        |
-| read17 | [Web Scraping](https://doaa-1996.github.io/reading-notes/read017)                  |
-| read18 | [Cryptography](https://doaa-1996.github.io/reading-notes/read018)                  |
-| read19 | [Automation](https://doaa-1996.github.io/reading-notes/read019)                    |
-| read26 | [Intro to Django](https://doaa-1996.github.io/reading-notes/read26)                |
-| read27 | [Django Models](https://doaa-1996.github.io/reading-notes/read27)                  |
-| read28 | [Django CRUD and Forms](https://doaa-1996.github.io/reading-notes/read28)          |
-| read29 | [Django Custom User](https://doaa-1996.github.io/reading-notes/read29)             |
-| read31 | [Django REST Framework & Docker](https://doaa-1996.github.io/reading-notes/read31) |
-| read32 | [Permissions & Postgresql](https://doaa-1996.github.io/reading-notes/read32)       |
+| Reads  | Links                                                                                  |
+| ------ | -------------------------------------------------------------------------------------- |
+| read01 | [Pain and big O notation](https://doaa-1996.github.io/reading-notes/read01)            |
+| read02 | [Testing and Modules](https://doaa-1996.github.io/reading-notes/read02)                |
+| read03 | [FileIO & Exceptions](https://doaa-1996.github.io/reading-notes/read03)                |
+| read04 | [Topic](https://doaa-1996.github.io/reading-notes/read04)                              |
+| read05 | [Linked Lists](https://doaa-1996.github.io/reading-notes/read05)                       |
+| read06 | [Game of Greed 1](https://doaa-1996.github.io/reading-notes/read06)                    |
+| read07 | [Game of Greed 2](https://doaa-1996.github.io/reading-notes/read07)                    |
+| read08 | [Game of Greed 3](https://doaa-1996.github.io/reading-notes/read08)                    |
+| read09 | [Game of Greed 4](https://doaa-1996.github.io/reading-notes/read09)                    |
+| read1  | [Stacks & Queues](https://doaa-1996.github.io/reading-notes/read010)                   |
+| read11 | [Data Analysis](https://doaa-1996.github.io/reading-notes/read011)                     |
+| read12 | [Topic](https://doaa-1996.github.io/reading-notes/read012)                             |
+| read13 | [Linear Regressions](https://doaa-1996.github.io/reading-notes/read013)                |
+| read14 | [Data Visualization](https://doaa-1996.github.io/reading-notes/read014)                |
+| read15 | [Trees](https://doaa-1996.github.io/reading-notes/read015)                             |
+| read16 | [Machine Learning Intro](https://doaa-1996.github.io/reading-notes/read016)            |
+| read17 | [Web Scraping](https://doaa-1996.github.io/reading-notes/read017)                      |
+| read18 | [Cryptography](https://doaa-1996.github.io/reading-notes/read018)                      |
+| read19 | [Automation](https://doaa-1996.github.io/reading-notes/read019)                        |
+| read26 | [Intro to Django](https://doaa-1996.github.io/reading-notes/read26)                    |
+| read27 | [Django Models](https://doaa-1996.github.io/reading-notes/read27)                      |
+| read28 | [Django CRUD and Forms](https://doaa-1996.github.io/reading-notes/read28)              |
+| read29 | [Django Custom User](https://doaa-1996.github.io/reading-notes/read29)                 |
+| read31 | [Django REST Framework & Docker](https://doaa-1996.github.io/reading-notes/read31)     |
+| read32 | [Permissions & Postgresql](https://doaa-1996.github.io/reading-notes/read32)           |
+| read33 | [Authentication & Production Server](https://doaa-1996.github.io/reading-notes/read33) |
