@@ -87,3 +87,4 @@
 | read31 | [Django REST Framework & Docker](https://doaa-1996.github.io/reading-notes/read31)     |
 | read32 | [Permissions & Postgresql](https://doaa-1996.github.io/reading-notes/read32)           |
 | read33 | [Authentication & Production Server](https://doaa-1996.github.io/reading-notes/read33) |
+| read34 | [API Deployment](https://doaa-1996.github.io/reading-notes/read34)                     |
