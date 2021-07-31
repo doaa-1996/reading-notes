@@ -11,8 +11,6 @@
 * Stuck? Ask for Help!
 * Bonus: Communicating Prior to the Interview
 
-
-
 ## 7 tips to ace a programming interview
 
 1) Take a few minutes.
@@ -22,4 +20,3 @@
 5) Sit down. Be humble.
 6) Come prepared.
 7) Review your work.
-
