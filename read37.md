@@ -12,18 +12,15 @@ Here is some common terminology used when working with Graphs:
 
 * Degree - The degree of a vertex is the number of edges connected to that vertex.
 
-
 **Types of graphs:**
 
 **Undirected Graph**
 
 ![un](https://www.researchgate.net/profile/Hakan-Terelius/publication/265428782/figure/fig3/AS:669498856194058@1536632374537/An-undirected-graph-with-7-nodes-and-7-edges.png)
 
-
 **Directed Graph**
 
 ![di](https://www.researchgate.net/profile/John-Lee-156/publication/220863116/figure/fig1/AS:669516962988037@1536636691241/An-example-of-a-directed-graph-with-9-nodes.png)
-
 
 **Acyclic vs Cyclic**
 
@@ -32,7 +29,6 @@ Acyclic Graph is a directed graph without cycles.
 cycle is when a node can be traversed through and potentially end up back at itself.A directed acyclic graph is also called a DAG.
 
 Cyclic Graphs is a graph that has cycles. A cycle is defined as a path of a positive length that starts and ends at the same vertex.
-
 
 **Weighted Graphs**
 
