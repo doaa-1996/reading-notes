@@ -92,3 +92,4 @@
 | read37 | [Graphs](https://doaa-1996.github.io/reading-notes/read37)                             |
 | read38 | [React2](https://doaa-1996.github.io/reading-notes/read38)                             |
 | read39 | [React3](https://doaa-1996.github.io/reading-notes/read39)                             |
+| read42 | [Pythonisms](https://doaa-1996.github.io/reading-notes/read42)                         |
